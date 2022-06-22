@@ -1,9 +1,6 @@
-## Hi there 👋 welcome ,take a seat :seat:
+# Hi there 👋 welcome ,take a seat :seat:
 
-
-**abdo1327/abdo1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-This account is a place to share my thoughts :thought_balloon:, projects, ideas :bulb: and knowledge :books: on whatever related to Data science and programing  :computer:  in general, I am trying to keep it well organized to be easy to reach whatever topic you interested in, each repository designated to a topic related to Data science which will contain projects that I worked on, notes, and other useful resources.    
+## This account is a place to share my thoughts :thought_balloon:, projects, ideas :bulb: and knowledge :books: on whatever related to Data science and programing  :computer:  in general, I am trying to keep it well organized to be easy to reach whatever topic you interested in, each repository designated to a topic related to Data science which will contain projects that I worked on, notes, and other useful resources.    
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
