@@ -8,6 +8,9 @@
 - 💬 Ask me about any Data Science related topics   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abdalla-m-8239a5121)
 
-### 👋👋 👋 I hope to see you again soon  :simple_smile: :simple_smile: :simple_smile:
+### 👋👋👋 I hope to see you again soon 
+:simple_smile: 
+:simple_smile: 
+:simple_smile:
 
 
