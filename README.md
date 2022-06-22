@@ -1,6 +1,7 @@
-### Hi there 👋
-### :swimmer:
-<!--
+## Hi there 👋 welcome  
+## take a seat :seat:
+
+
 **abdo1327/abdo1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +19,4 @@ Here are some ideas to get you started:
 :smile:
 :swimmer: 
 
--->.
+
